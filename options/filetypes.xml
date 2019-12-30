@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="exception-message" type="PLAIN_TEXT" />
+      <mapping ext="properteis" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

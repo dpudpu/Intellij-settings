@@ -1,0 +1,41 @@
+<application>
+  <component name="libraryTable">
+    <library name="count" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__gaejangmo-1.disqus.com_count.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__gaejangmo-1.disqus.com_count.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Spring-4.3.18.RELEASE" type="spring">
+      <properties version="4.3.18.RELEASE" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-instrument-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-aspects-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-core-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-context-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-expression-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-aop-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-messaging-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/commons-logging-1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-tx-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/aopalliance-1.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-test-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-jdbc-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-oxm-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-jms-4.3.18.RELEASE.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/development/TIL/spring/daoexam/lib/spring-orm-4.3.18.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

@@ -1,0 +1,195 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/development/BM/java-chess" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/java-coordinate" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/java-ladder" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/java-lotto" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/java-racingcar" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/java-study-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-blog" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-di" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-jdbc" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-mvc" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-network" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-spring-boot" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/jwp-was" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/BM/miniprojects-2019" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/ChiangMai" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/ChiangMai/ChiangMai" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/TIL/springboot/demo-inflearn-rest-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/TIL/springboot/inflearn-rest-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/TIL/springboot/oauth2-exam" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/api-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/bbang" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/code-review/java-baseball" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-baseball" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-baseball-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-ladder" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-lotto" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-movie" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/java-racingcar" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/jwp-blog" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/jwp-book/chapter2" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/key/java-movie" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/kotlin-practice" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/voca-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/woowa-review/java-coordinate" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/woowa-review/java-ladder-review" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/woowa-review/java-racingcar-review" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/development/woowacource-missions/jwp-was" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-baseball-develop" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-chess-dpudpu" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-chess-pobi" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-ladder-hyunssooo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-ladder-starkim06" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-ladder-starkim06 2" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-lotto-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-lotto-precource-daejun" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-movie-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-racingcar-develop" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/java-racingcar-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/jwp-blog-Deocksoo2" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/miniprojects-2019-pr-websocket" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit</id>
+              </State>
+              <State>
+                <id>JUnitJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ArquillianSettingsConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Spring-4.3.18.RELEASE</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
