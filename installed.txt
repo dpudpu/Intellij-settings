@@ -2,7 +2,6 @@ Builder Generator
 Lombook Plugin
 com.alayouni.ansiHighlight
 com.chrisrm.idea.MaterialThemeUI
-com.codota.csp.intellij
 com.cybrosis.catdea
 com.dmarcotte.handlebars
 com.intellij.ideolog
