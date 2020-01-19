@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="logger" value="private val log = org.slf4j.LoggerFactory.getLogger($className$::class.java)&#10;" description="log" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
