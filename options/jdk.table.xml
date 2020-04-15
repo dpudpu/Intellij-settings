@@ -66,5 +66,170 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.6&quot;" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.base" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.compiler" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.desktop" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.instrument" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.logging" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.management" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.naming" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.net.http" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.prefs" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.rmi" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.scripting" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.se" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.sql" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.xml" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.aot" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.management" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.net" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.pack" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.rmic" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/dpudpu/.sdkman/candidates/java/11.0.6.hs-adpt!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/11.0.6.hs-adpt/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

@@ -1,6 +1,3 @@
 Lombook Plugin
 com.chrisrm.idea.MaterialThemeUI
-com.dmarcotte.handlebars
-org.sonarlint.idea
-tanvd.grazi
-zielu.gittoolbox
+com.mallowigi

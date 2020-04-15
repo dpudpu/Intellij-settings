@@ -5,4 +5,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="FileChooser.GotoModule" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>

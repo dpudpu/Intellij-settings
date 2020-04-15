@@ -5,4 +5,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="todo" value="// TODO: $date$ $todo$ " description="create todo with data" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
