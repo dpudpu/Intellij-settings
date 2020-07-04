@@ -5,7 +5,14 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="FileChooser.GotoModule" />
-  <action id="SplitVertically">
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
 </keymap>

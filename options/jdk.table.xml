@@ -231,5 +231,50 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="1.8 (2)" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_242&quot;" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/dt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

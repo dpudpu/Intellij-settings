@@ -1,3 +1,8 @@
 Lombook Plugin
 com.chrisrm.idea.MaterialThemeUI
 com.mallowigi
+intellij.prettierJS
+name.kropp.intellij.makefile
+org.asciidoctor.intellij.asciidoc
+org.jetbrains.kotlin
+zielu.gittoolbox
