@@ -1,16 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="dd" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-commit2" type="PLAIN_TEXT" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="exception-message" type="PLAIN_TEXT" />
+      <mapping pattern="as" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="properteis" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="7" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>

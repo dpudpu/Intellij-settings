@@ -1,8 +1,13 @@
-Lombook Plugin
 com.chrisrm.idea.MaterialThemeUI
+com.jetbrains.upsource
 com.mallowigi
+com.wakatime.intellij.plugin
 intellij.prettierJS
 name.kropp.intellij.makefile
+net.sjrx.intellij.plugins.systemdunitfiles
 org.asciidoctor.intellij.asciidoc
-org.jetbrains.kotlin
-zielu.gittoolbox
+org.intellij.plugins.hcl
+org.jetbrains.plugins.go
+org.tinygroup.studio.service
+ru.meanmail.plugins.prettify-python
+siosio.kodkod

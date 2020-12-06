@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="imR" value="import React from 'react';&#10;&#10;export default function $NAME$($ITEM$){&#10;    $END$&#10;    return ();&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

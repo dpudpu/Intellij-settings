@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="17" />
     <option name="FONT_FAMILY" value="D2Coding" />
   </component>
   <component name="EditorSettings">
@@ -14,5 +14,8 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
   </component>
 </application>

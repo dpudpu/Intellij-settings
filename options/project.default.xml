@@ -126,7 +126,7 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
       <component name="masterDetails">
         <states>
@@ -167,7 +167,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>11</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

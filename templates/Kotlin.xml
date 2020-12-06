@@ -13,4 +13,24 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="nne" value="@Nested &#10;@DisplayName(&quot;$NAME$&quot;)&#10;inner class $NAME2${&#10;    $END$&#10;}" shortcut="TAB" description="nested class for test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="nnc" value="@Nested &#10;@DisplayName(&quot;성공하면&quot;)&#10;inner class WhenSuccessful{&#10;    $END$&#10;}" shortcut="TAB" description="nested class for test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="nnf" value="@Nested &#10;@DisplayName(&quot;실패하는 경우는&quot;)&#10;inner class ReasonsOfFailure{&#10;    $END$&#10;}" shortcut="TAB" description="nested class for test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
